@@ -1,0 +1,34 @@
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-end {
+  display: flex;
+  justify-content: end;
+}
+
+ul li {
+  list-style: none;
+}
+
+.active {
+  color: #198754;
+  font-weight: 500;
+}
+
+.unactive {
+  color: #DC3546;
+  font-weight: 500;
+}
+
+.bg-orange {
+  color: white;
+  background-color: #f47d46;
+  border: #f47d46;
+}
+
+.form-check-input:checked {
+  background-color: #f47d46;
+  border-color: #f47d46;
+}
